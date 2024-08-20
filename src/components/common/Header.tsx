@@ -9,7 +9,7 @@ const Header = () => {
         <Link to={"/"} className="text-3xl font-bold tracking-tight text-orange-500">
           Shops
         </Link>
-
+        {/* hadi  */}
         <div className="md:hidden">
           <MobileNav />
         </div>
